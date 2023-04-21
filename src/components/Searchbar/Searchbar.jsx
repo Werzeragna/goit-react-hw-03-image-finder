@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { Notify } from 'notiflix';
-import { StyledBtnSubmit, StyledForm, StyledHeader, StyledSpan, Styledinput } from './Searchbar.styled';
+import { StyledBtnSubmit, StyledForm, StyledHeader,  Styledinput } from './Searchbar.styled';
 import { FiSearch } from 'react-icons/fi';
 
 export class Searchbar extends Component {
